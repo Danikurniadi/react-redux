@@ -1,0 +1,96 @@
+ {
+  "users":[
+    {
+        "id": 1,
+        "nama": "dani",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 2,
+        "nama": "aryo",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 3,
+        "nama": "bayu",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 4,
+        "nama": "silvi",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 5,
+        "nama": "aldi",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 6,
+        "nama": "yabes",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 7,
+        "nama": "ahmad",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 8,
+        "nama": "tyo",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 9,
+        "nama": "romi",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 10,
+        "nama": "reza",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 11,
+        "nama": "ibnu",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 12,
+        "nama": "marwan",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 13,
+        "nama": "salwa",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      }
+]
+ }
+ 
