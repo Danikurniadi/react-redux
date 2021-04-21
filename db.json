@@ -1,0 +1,95 @@
+{
+  "users":[
+    {
+        "id": 1,
+        "nama": "dani",
+        "alamat": "Bandung",
+        "umur": 21,
+        "nohp": "08312122121"
+      },
+      {
+        "id": 2,
+        "nama": "aryo",
+        "alamat": "Cimahi",
+        "umur": 21,
+        "nohp": "08301331333"
+      },
+      {
+        "id": 3,
+        "nama": "bayu",
+        "alamat": "Jakarta",
+        "umur": 21,
+        "nohp": "08731212313"
+      },
+      {
+        "id": 4,
+        "nama": "silvi",
+        "alamat": "Medan",
+        "umur": 21,
+        "nohp": "089313617371"
+      },
+      {
+        "id": 5,
+        "nama": "aldi",
+        "alamat": "Surabaya",
+        "umur": 21,
+        "nohp": "083138103803"
+      },
+      {
+        "id": 6,
+        "nama": "yabes",
+        "alamat": "Jogjakarta",
+        "umur": 21,
+        "nohp": "089318837173"
+      },
+      {
+        "id": 7,
+        "nama": "ahmad",
+        "alamat": "Semarang",
+        "umur": 21,
+        "nohp": "0812121213133"
+      },
+      {
+        "id": 8,
+        "nama": "tyo",
+        "alamat": "Solo",
+        "umur": 21,
+        "nohp": "0800319091933"
+      },
+      {
+        "id": 9,
+        "nama": "romi",
+        "alamat": "Surabaya",
+        "umur": 21,
+        "nohp": "0876127617267"
+      },
+      {
+        "id": 10,
+        "nama": "reza",
+        "alamat": "Nganjuk",
+        "umur": 21,
+        "nohp": "08731381738122"
+      },
+      {
+        "id": 11,
+        "nama": "ibnu",
+        "alamat": "Sleman",
+        "umur": 21,
+        "nohp": "089128912891"
+      },
+      {
+        "id": 12,
+        "nama": "marwan",
+        "alamat": "Bogor",
+        "umur": 21,
+        "nohp": "0891289182"
+      },
+      {
+        "id": 13,
+        "nama": "salwa",
+        "alamat": "Tasikmalaya",
+        "umur": 21,
+        "nohp": "01289182916"
+      }
+]
+ }
